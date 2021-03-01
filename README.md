@@ -6,9 +6,12 @@ A little library for embedding raylib onto GTK3.
 - Raylib 3.x : https://github.com/raysan5/raylib
 
 # Compile gtk-raylib
+
+```
 meson build
 cd build
 ninja
+```
 
 # About this project
 We wanted to embed raylib into a GTK3 project and We couldnt find anything useful except [hbiblia's AMAZING gtk-raylib](https://github.com/hbiblia/gtk-raylib), 
