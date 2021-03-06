@@ -1,4 +1,4 @@
-# GTKRaylib
+# GTKRaylib (INCOMPLETE, DO NOT USE)
 A little library for embedding raylib onto GTK3.
 
 - Gtk+-3.x (OpenGL 3.3)
